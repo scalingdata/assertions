@@ -4,7 +4,7 @@ import (
 	"encoding/json"
 	"fmt"
 
-	"github.com/smartystreets/assertions/internal/go-render/render"
+	"github.com/scalingdatal/go-render/render"
 )
 
 type Serializer interface {

@@ -21,7 +21,7 @@ import (
 	"reflect"
 	"testing"
 
-	. "github.com/smartystreets/assertions/internal/oglematchers"
+	. "github.com/scalingdata/go-oglematchers"
 	"github.com/smartystreets/assertions/internal/oglemock"
 	. "github.com/smartystreets/assertions/internal/ogletest"
 )

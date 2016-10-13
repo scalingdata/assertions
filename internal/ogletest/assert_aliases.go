@@ -16,7 +16,7 @@
 package ogletest
 
 import (
-	"github.com/smartystreets/assertions/internal/oglematchers"
+	"github.com/scalingdata/go-oglematchers"
 )
 
 // AssertEq(e, a) is equivalent to AssertThat(a, oglematchers.Equals(e)).

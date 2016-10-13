@@ -18,7 +18,7 @@ package oglemock
 import (
 	"errors"
 	"fmt"
-	"github.com/smartystreets/assertions/internal/oglematchers"
+	"github.com/scalingdata/go-oglematchers"
 	"reflect"
 	"sync"
 )

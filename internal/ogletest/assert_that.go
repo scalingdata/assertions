@@ -16,7 +16,7 @@
 package ogletest
 
 import (
-	"github.com/smartystreets/assertions/internal/oglematchers"
+	"github.com/scalingdata/go-oglematchers"
 )
 
 func assertThat(

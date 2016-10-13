@@ -20,7 +20,7 @@ import (
 	"math"
 	"unsafe"
 
-	. "github.com/smartystreets/assertions/internal/oglematchers"
+	. "github.com/scalingdata/go-oglematchers"
 	. "github.com/smartystreets/assertions/internal/ogletest"
 )
 

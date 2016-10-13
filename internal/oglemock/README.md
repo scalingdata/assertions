@@ -97,7 +97,7 @@ see [here][oglemock-docs].
 [golang-install]: http://golang.org/doc/install.html
 [google-js-test]: http://code.google.com/p/google-js-test/
 [googlemock]: http://code.google.com/p/googlemock/
-[oglematchers]: https://github.com/smartystreets/assertions/internal/oglematchers
+[oglematchers]: https://github.com/scalingdata/go-oglematchers
 [oglemock-docs]: http://godoc.org/github.com/smartystreets/assertions/internal/oglemock
 [ogletest]: https://github.com/smartystreets/assertions/internal/ogletest
 [ogletest-docs]: http://godoc.org/github.com/smartystreets/assertions/internal/ogletest

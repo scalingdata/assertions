@@ -7,8 +7,8 @@ import (
 	"reflect"
 	"strings"
 
-	"github.com/smartystreets/assertions/internal/oglematchers"
-	"github.com/smartystreets/assertions/internal/go-render/render"
+	"github.com/scalingdata/go-oglematchers"
+	"github.com/scalingdatal/go-render/render"
 )
 
 // default acceptable delta for ShouldAlmostEqual

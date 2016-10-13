@@ -17,7 +17,7 @@ package oglemock_test
 
 import (
 	"errors"
-	. "github.com/smartystreets/assertions/internal/oglematchers"
+	. "github.com/scalingdata/go-oglematchers"
 	"github.com/smartystreets/assertions/internal/oglemock"
 	"github.com/smartystreets/assertions/internal/oglemock/sample/mock_io"
 	. "github.com/smartystreets/assertions/internal/ogletest"

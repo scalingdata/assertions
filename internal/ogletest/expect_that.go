@@ -21,7 +21,7 @@ import (
 	"reflect"
 	"runtime"
 
-	"github.com/smartystreets/assertions/internal/oglematchers"
+	"github.com/scalingdata/go-oglematchers"
 )
 
 // ExpectThat confirms that the supplied matcher matches the value x, adding a

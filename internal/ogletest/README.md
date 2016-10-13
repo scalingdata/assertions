@@ -64,7 +64,7 @@ for it as follows:
 package people
 
 import (
-  "github.com/smartystreets/assertions/internal/oglematchers"
+  "github.com/scalingdata/go-oglematchers"
   "github.com/smartystreets/assertions/internal/ogletest"
   "testing"
 )
@@ -104,7 +104,7 @@ package name:
 
 ```go
 import (
-  . "github.com/smartystreets/assertions/internal/oglematchers"
+  . "github.com/scalingdata/go-oglematchers"
   . "github.com/smartystreets/assertions/internal/ogletest"
 )
 ```
@@ -143,7 +143,7 @@ And if the test passes:
 
 
 [reference]: http://godoc.org/github.com/smartystreets/assertions/internal/ogletest
-[matcher-reference]: http://godoc.org/github.com/smartystreets/assertions/internal/oglematchers
+[matcher-reference]: http://godoc.org/github.com/scalingdata/go-oglematchers
 [golang-install]: http://golang.org/doc/install.html
 [googletest]: http://code.google.com/p/googletest/
 [google-js-test]: http://code.google.com/p/google-js-test/
