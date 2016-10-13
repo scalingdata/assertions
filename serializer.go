@@ -4,7 +4,7 @@ import (
 	"encoding/json"
 	"fmt"
 
-	"github.com/scalingdatal/go-render/render"
+	"github.com/scalingdata/go-render/render"
 )
 
 type Serializer interface {

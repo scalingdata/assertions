@@ -8,7 +8,7 @@ import (
 	"strings"
 
 	"github.com/scalingdata/go-oglematchers"
-	"github.com/scalingdatal/go-render/render"
+	"github.com/scalingdata/go-render/render"
 )
 
 // default acceptable delta for ShouldAlmostEqual
