@@ -3,11 +3,11 @@
 reqtrace is a package for simple request tracing. It requires nothing of its
 user except:
 
- *  They must use [golang.org/x/net/context][context].
+ *  They must use [github.com/scalingdata/go-x-net/context][context].
  *  They must add a single line to each function they want to be visible in
     traces.
 
-[context]: http://godoc.org/golang.org/x/net/context
+[context]: http://godoc.org/github.com/scalingdata/go-x-net/context
 
 In particular, reqtrace is console-based and doesn't require an HTTP server.
 

@@ -1,6 +1,6 @@
 package gcs
 
-import "golang.org/x/net/context"
+import "github.com/scalingdata/go-x-net/context"
 
 type Bucket interface {
 	Name() string
